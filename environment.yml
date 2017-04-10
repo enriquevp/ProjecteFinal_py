@@ -1,0 +1,11 @@
+name: twitter-sentiment-analysis
+dependencies:
+    - python
+    - pandas
+    - numpy
+    - nltk
+    - matplotlib
+    - jedi
+    - pip
+    - pip:
+          - tweepy
